@@ -2,7 +2,8 @@
 
 
 
-![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact)
 
 <br/>
 
