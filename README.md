@@ -4,6 +4,7 @@
 
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+<br/>
 
 # 💻 Tech Stack
 
@@ -13,6 +14,8 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
+<br/>
 
 # 🌐 Socials
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
