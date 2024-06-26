@@ -1,7 +1,5 @@
 ### Olá, eu sou o Dimi Martins 💪🤨
 
-
-
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact)
 
@@ -20,6 +18,7 @@
 <br/>
 
 # 🌐 Socials
+
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
@@ -28,9 +27,10 @@
 
 # Formations
 
-<img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
-<img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
-<img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
+<div style="display:flex;">
+    <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
+    <img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
+    <img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
+</div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
-
