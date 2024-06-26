@@ -16,7 +16,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<img width="125px" src="./assets/regex.png" title="Regex - Expressões Regulares">
+<img heigth="28px" src="./assets/regex.png" title="Regex - Expressões Regulares">
 <br/>
 
 # 🌐 Socials
@@ -25,6 +25,12 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+
+# Formations
+
+<img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
+<img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
+<img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
 
