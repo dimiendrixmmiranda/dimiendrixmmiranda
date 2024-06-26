@@ -25,7 +25,7 @@
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-# Formations
+# 🎓Formations
 
 <div style="display:flex;">
     <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
