@@ -25,14 +25,14 @@
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)
 ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
-# 🎓Formations
+# 🎓 Formations
 
 <div style="display:flex;">
-    <a href="https://pomodoro-jet-rho.vercel.app/">
-        <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
-    </a>
+    <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
     <img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
     <img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
 </div>
+
+# 🛠️ Main Projects
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
