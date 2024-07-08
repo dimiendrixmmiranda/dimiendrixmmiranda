@@ -28,7 +28,9 @@
 # 🎓Formations
 
 <div style="display:flex;">
-    <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
+    <a href="https://pomodoro-jet-rho.vercel.app/">
+        <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
+    </a>
     <img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
     <img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
 </div>
