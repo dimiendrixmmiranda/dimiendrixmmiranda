@@ -39,6 +39,7 @@
     <a href="https://forca-alpha.vercel.app/" target="_blank"><img width="120px" src="./assets/forca-icone.png"></a>
     <a href="https://buywise-dun.vercel.app/" target="_blank"><img width="120px" src="./assets/buywise.png"></a>
     <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/tabela-periodica.png"></a>
+    <a href="https://pomodoro-jet-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/pomodoro.png"></a>
 </div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
