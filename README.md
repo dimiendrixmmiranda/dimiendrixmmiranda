@@ -36,9 +36,9 @@
 # 🛠️ Main Projects
 
 <div style="display:flex; column-gap: .5em">
-    <a href="https://forca-alpha.vercel.app/"><img width="120px" src="./assets/forca-icone.png"></a>
-    <a href="https://buywise-dun.vercel.app/"><img width="120px" src="./assets/buywise.png"></a>
-    <a href="https://tabela-periodica-rho.vercel.app/"><img width="120px" src="./assets/tabela-periodica.png"></a>
+    <a href="https://forca-alpha.vercel.app/" target="_blank"><img width="120px" src="./assets/forca-icone.png"></a>
+    <a href="https://buywise-dun.vercel.app/" target="_blank"><img width="120px" src="./assets/buywise.png"></a>
+    <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/tabela-periodica.png"></a>
 </div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
