@@ -14,7 +14,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<img heigth="28px" src="./assets/regex.png" title="Regex - Expressões Regulares">
+<img heigth="28px" src="./assets/badges/tech-stack/funcionalidade-badge-regex.png" title="Regex - Expressões Regulares">
 <br/>
 
 # 🌐 Socials
@@ -28,18 +28,18 @@
 # 🎓 Formations
 
 <div style="display:flex; column-gap: .5em">
-    <img heigth="28px" src="./assets/badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
-    <img heigth="28px" src="./assets/badge-cod3r.png" title="Cod3r">
-    <img heigth="28px" src="./assets/badge-alura.png" title="Alura - Curso de Tecnologia">
+    <img heigth="28px" src="./assets/badges/formations/instituicao-badge-unopar.png" title="Unopar - Universidade do Norte do Paraná">
+    <img heigth="28px" src="./assets/badges/formations/instituicao-badge-cod3r.png" title="Cod3r">
+    <img heigth="28px" src="./assets/badges/formations/instituicao-badge-alura.png" title="Alura - Curso de Tecnologia">
 </div>
 
 # 🛠️ Main Projects
 
 <div style="display:flex; column-gap: .5em">
-    <a href="https://forca-alpha.vercel.app/" target="_blank"><img width="120px" src="./assets/forca-icone.png"></a>
-    <a href="https://buywise-dun.vercel.app/" target="_blank"><img width="120px" src="./assets/buywise.png"></a>
-    <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/tabela-periodica.png"></a>
-    <a href="https://pomodoro-jet-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/pomodoro.png"></a>
+    <a href="https://forca-alpha.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-forca.png"></a>
+    <a href="https://buywise-dun.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-buywise.png"></a>
+    <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-pomodoro.png"></a>
+    <a href="https://pomodoro-jet-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-tabela-periodica.png"></a>
 </div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
