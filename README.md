@@ -38,7 +38,7 @@
 <div style="display:flex; column-gap: .5em; flex-wrap: wrap">
     <a href="https://forca-alpha.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-forca.png"></a>
     <a href="https://buywise-dun.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-buywise.png"></a>
-    <a href="https://pomodoro-jet-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-pomodoro.png"></a>
+    <a href="https://pomodoro-ebon-one.vercel.app/index.html" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-pomodoro.png"></a>
     <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-tabela-periodica.png"></a>
     <a href="https://fanaticos.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-fanaticos.png"></a>
 </div>
