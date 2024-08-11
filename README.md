@@ -41,6 +41,7 @@
     <a href="https://pomodoro-ebon-one.vercel.app/index.html" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-pomodoro.png"></a>
     <a href="https://tabela-periodica-rho.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-tabela-periodica.png"></a>
     <a href="https://fanaticos.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-fanaticos.png"></a>
+    <a href="https://agenda-contatos-cyan-seven.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-agenda-contatos.png"></a>
 </div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
