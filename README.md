@@ -37,6 +37,7 @@
 
 <div style="display:flex; column-gap: .5em; flex-wrap: wrap">
     <a href="https://gamerzone-kappa.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-gamerzone.png"></a>
+    <a href="https://prefeitura-municipal-joaquim-tavora-pr.vercel.app/" target="_blank"><img width="120px" src="./assets/badges/projects/projeto-badge-prefeitura.png"></a>
 </div>
 
 #### Estudando Engenharia da Computação na Universidade Pitágoras Unopar Anhanguera - Unopar
