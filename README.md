@@ -11,11 +11,17 @@ Atualmente, trabalho como assistente administrativo no Posto de Saúde Central, 
 Este GitHub é um espaço para compartilhar meus estudos, projetos e minha evolução como profissional de tecnologia.
 
 <p>
+  <a href="https://github.com/dimiendrixmmiranda">
+    <img src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZA%C3%87%C3%95ES&color=E5534B&style=for-the-badge" alt="Visualizações do perfil" />
+  </a>
   <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
-    <img src="https://img.shields.io/badge/⭐%20Estrelas-Ver%20meus%20reposit%C3%B3rios-2ea44f?style=for-the-badge" alt="Ver repositórios e estrelas" />
+    <img src="https://img.shields.io/badge/⭐_ESTRELAS-Ver%20estat%C3%ADsticas-2E9D55?style=for-the-badge" alt="Estrelas nos projetos GitHub" />
+  </a>
+  <a href="https://github.com/dimiendrixmmiranda?tab=followers">
+    <img src="https://img.shields.io/github/followers/dimiendrixmmiranda?label=SEGUIDORES&style=for-the-badge&logo=github&color=2878C8" alt="Seguidores no GitHub" />
   </a>
   <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM">
-    <img src="https://img.shields.io/badge/Instagram-Siga%20meu%20perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-Acompanhe%20meu%20perfil-D64A83?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
