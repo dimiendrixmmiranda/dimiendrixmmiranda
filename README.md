@@ -1,12 +1,13 @@
 ### Olá, eu sou o Dimi Martins 💪🤨
 
-![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact)
-
 Olá! Eu sou Dimi Endrix Martins Miranda, estudante de Engenharia da Computação na UNOPAR e apaixonado por tecnologia e desenvolvimento de software.
 Sou natural de Joaquim Távora, Paraná, e estou sempre buscando aprender e ampliar meus conhecimentos. Já fiz cursos de desenvolvimento web pela Alura e pela Cod3r e tenho interesse em continuar evoluindo na área de tecnologia.
 Atualmente, trabalho como assistente administrativo no Posto de Saúde Central. Essa experiência também contribui para o desenvolvimento de habilidades como organização, responsabilidade e comunicação.
 No futuro, pretendo cursar uma pós-graduação em Engenharia de Software e Arquitetura de Sistemas. Este GitHub é um espaço para compartilhar meus estudos, projetos e minha evolução como profissional de tecnologia.
+<br/>
+
+![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact)
 
 <br/>
 
