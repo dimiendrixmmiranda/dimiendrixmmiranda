@@ -1,10 +1,25 @@
 ### Olá, eu sou o Dimi Martins 💪🤨
 
-Olá! Eu sou Dimi Endrix Martins Miranda, estudante de Engenharia da Computação na UNOPAR e apaixonado por tecnologia e desenvolvimento de software.
-Sou natural de Joaquim Távora, Paraná, e estou sempre buscando aprender e ampliar meus conhecimentos. Já fiz cursos de desenvolvimento web pela Alura e pela Cod3r e tenho interesse em continuar evoluindo na área de tecnologia.
-Atualmente, trabalho como assistente administrativo no Posto de Saúde Central. Essa experiência também contribui para o desenvolvimento de habilidades como organização, responsabilidade e comunicação.
-No futuro, pretendo cursar uma pós-graduação em Engenharia de Software e Arquitetura de Sistemas. Este GitHub é um espaço para compartilhar meus estudos, projetos e minha evolução como profissional de tecnologia.
-<br/>
+Olá, eu sou o Dimi Martins!
+
+Futuro Desenvolvedor Full Stack | Estudante de Engenharia da Computação na UNOPAR
+
+Sou Dimi Endrix Martins Miranda, natural de Joaquim Távora, Paraná, e apaixonado por tecnologia e desenvolvimento de software. Estou sempre buscando aprender e ampliar meus conhecimentos. Já fiz cursos de desenvolvimento web pela Alura e pela Cod3r e quero continuar evoluindo na área de tecnologia.
+
+Atualmente, trabalho como assistente administrativo no Posto de Saúde Central, experiência que também fortalece minhas habilidades de organização, responsabilidade e comunicação. No futuro, pretendo cursar uma pós-graduação em Engenharia de Software e Arquitetura de Sistemas.
+
+Este GitHub é um espaço para compartilhar meus estudos, projetos e minha evolução como profissional de tecnologia.
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil" />
+</p> <p>
+  <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
+    <img src="https://img.shields.io/badge/⭐%20Estrelas-Ver%20meus%20reposit%C3%B3rios-2ea44f?style=for-the-badge" alt="Ver repositórios e estrelas" />
+  </a>
+  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-Siga%20meu%20perfil-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ![Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact)
