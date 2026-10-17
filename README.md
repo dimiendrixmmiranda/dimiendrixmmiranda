@@ -95,26 +95,7 @@ Estudos complementares em desenvolvimento web e programação por meio de cursos
 
 # 🛠️ Main Projects
 
-<div align="left">
-  <a href="https://prefeitura-municipal-de-joaquim-tavora-pr.vercel.app/" target="_blank">
-    <img width="120" src="./assets/badges/projects/projeto-badge-prefeitura.png" alt="Projeto Prefeitura Municipal de Joaquim Távora" title="Projeto Prefeitura Municipal de Joaquim Távora" />
-  </a>
-</div>
-
-### 🏥 Sistema de Saúde de Joaquim Távora — SSJT
-
-Sistema web voltado à organização dos processos de atendimento da rede municipal de saúde.
-
-- Gestão de usuários e permissões de acesso.
-- Cadastro e gerenciamento de pacientes.
-- Organização de consultas, procedimentos e cirurgias.
-- Gestão de unidades de saúde e prestadores.
-- Tecnologias utilizadas: Next.js, React, TypeScript, Prisma e PostgreSQL.
-
-🔗 [Acessar o sistema](https://prefeitura-municipal-de-joaquim-tavora-pr.vercel.app/)
-
-🔎 [Ver todos os meus repositórios](https://github.com/dimiendrixmmiranda?tab=repositories)
-
+**Loading...**
 ---
 
 <p align="center">
