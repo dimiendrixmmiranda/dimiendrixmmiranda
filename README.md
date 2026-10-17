@@ -4,7 +4,7 @@
 
 Meu nome é **Dimi Endrix Martins Miranda**, sou natural de Joaquim Távora, Paraná, e estudo Engenharia da Computação na UNOPAR. Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas.
 
-Já fiz cursos de desenvolvimento web pela Alura e pela Cod3r. Atualmente trabalho como assistente administrativo no Posto de Saúde Central — experiência que contribui para minhas habilidades de organização, responsabilidade e comunicação.
+Já fiz cursos de desenvolvimento web pela **Alura** e pela **Cod3r**. Atualmente trabalho como assistente administrativo no Posto de Saúde Central — experiência que contribui para minhas habilidades de organização, responsabilidade e comunicação.
 
 Meu objetivo é seguir evoluindo como desenvolvedor e, no futuro, cursar uma pós-graduação em Engenharia de Software e Arquitetura de Sistemas. Aqui compartilho meus estudos, projetos e minha jornada na tecnologia.
 
