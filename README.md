@@ -15,7 +15,10 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
 
 <p align="center">
   <a href="https://github.com/dimiendrixmmiranda">
-    <img src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZA%C3%87%C3%95ES&color=E5534B&style=for-the-badge" alt="Visualizações" />
+    <img
+      src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZACOES&color=E5534B&style=for-the-badge"
+      alt="Visualizações do perfil"
+    />
   </a>
   <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
     <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-Explorar-2E9D55?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
