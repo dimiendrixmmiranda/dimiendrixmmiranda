@@ -13,26 +13,41 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
 
 ---
 
-<p align="center">
-  <a href="https://github.com/dimiendrixmmiranda">
-    <img
-      src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZACOES&color=E5534B&style=for-the-badge"
-      alt="Visualizações do perfil"
-    />
-  </a>
-  <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSIT%C3%93RIOS-Explorar-2E9D55?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios" />
-  </a>
-  <a href="https://github.com/dimiendrixmmiranda?tab=followers">
-    <img src="https://img.shields.io/github/followers/dimiendrixmmiranda?label=SEGUIDORES&style=for-the-badge&logo=github&color=2878C8" alt="Seguidores" />
-  </a>
+<p align="left">
+    <a href="https://github.com/dimimartins?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/dimimartins?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/dimimartins?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/dimimartins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/dimimartins?tab=repositories">
+        <img
+            alt="Total de projetos"
+            title="Total de repositórios públicos no GitHub"
+            src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdimimartins&query=%24.public_repos&label=Projetos&color=c76b00&style=for-the-badge&logo=github&logoColor=white"
+        />
+    </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Linguagens mais utilizadas" />
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=dimiendrixmmiranda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    height="200"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimiendrixmmiranda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320"
+    height="200"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
