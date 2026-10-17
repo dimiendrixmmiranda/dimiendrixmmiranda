@@ -2,15 +2,12 @@
 
 ### 💻 Desenvolvedor Full Stack em formação | Engenharia da Computação
 
-Sou **Dimi Endrix Martins Miranda**, estudante de Engenharia da Computação na UNOPAR, natural de Joaquim Távora, Paraná, e apaixonado por tecnologia e desenvolvimento de software.
+Meu nome é **Dimi Endrix Martins Miranda**, sou natural de Joaquim Távora, Paraná, e estudo Engenharia da Computação na UNOPAR. Sou apaixonado por tecnologia, desenvolvimento de software e por aprender coisas novas.
 
-Atualmente, busco aprimorar meus conhecimentos em desenvolvimento web, arquitetura de sistemas e bancos de dados. Já realizei cursos de desenvolvimento pela **Alura e Cod3r** e procuro transformar meus estudos em projetos práticos.
+Já fiz cursos de desenvolvimento web pela Alura e pela Cod3r. Atualmente trabalho como assistente administrativo no Posto de Saúde Central — experiência que contribui para minhas habilidades de organização, responsabilidade e comunicação.
 
-Também trabalho como assistente administrativo no Posto de Saúde Central, experiência que contribui para minhas habilidades de organização, responsabilidade e resolução de problemas.
+Meu objetivo é seguir evoluindo como desenvolvedor e, no futuro, cursar uma pós-graduação em Engenharia de Software e Arquitetura de Sistemas. Aqui compartilho meus estudos, projetos e minha jornada na tecnologia.
 
-🚀 Um dos meus principais projetos é o **Sistema de Saúde de Joaquim Távora (SSJT)**, desenvolvido com o objetivo de modernizar e organizar processos da rede municipal de saúde.
-
-🎯 Meu objetivo é me tornar um desenvolvedor Full Stack e, futuramente, aprofundar meus conhecimentos em Engenharia de Software e Arquitetura de Sistemas.
 
 Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnologia.
 
