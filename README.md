@@ -55,11 +55,7 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
 # 💻 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,git,github,vscode&theme=dark" alt="Tecnologias" />
-</p>
-
-<p>
-  <img src="./assets/badges/tech-stack/regex.png" width="100" alt="Regex - Expressões Regulares" title="Regex - Expressões Regulares" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,prisma,postgres,git,github,regex,vscode&theme=dark" alt="Tecnologias" />
 </p>
 
 ---
@@ -70,16 +66,13 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
   <a href="https://github.com/dimiendrixmmiranda">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://instagram.com/SEU_USUARIO_DO_INSTAGRAM">
+  <a href="https://instagram.com/eudimimartins">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://www.tiktok.com/@SEU_USUARIO_DO_TIKTOK">
+  <a href="https://www.tiktok.com/@eudimimartins">
     <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
   </a>
-  <a href="https://www.youtube.com/@SEU_USUARIO_DO_YOUTUBE">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:dimiendrixmmiranda@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
@@ -88,7 +81,7 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
 
 # 🎓 Formations
 
-<div>
+<div align="left">
   <img src="./assets/badges/formations/instituicao-badge-unopar.png" height="45" alt="UNOPAR" title="Engenharia da Computação - UNOPAR" />
   <img src="./assets/badges/formations/instituicao-badge-cod3r.png" height="45" alt="Cod3r" title="Cursos de programação - Cod3r" />
   <img src="./assets/badges/formations/instituicao-badge-alura.png" height="45" alt="Alura" title="Cursos de tecnologia - Alura" />
@@ -102,7 +95,7 @@ Estudos complementares em desenvolvimento web e programação por meio de cursos
 
 # 🛠️ Main Projects
 
-<div>
+<div align="left">
   <a href="https://prefeitura-municipal-de-joaquim-tavora-pr.vercel.app/" target="_blank">
     <img width="120" src="./assets/badges/projects/projeto-badge-prefeitura.png" alt="Projeto Prefeitura Municipal de Joaquim Távora" title="Projeto Prefeitura Municipal de Joaquim Távora" />
   </a>
