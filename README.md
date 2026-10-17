@@ -28,12 +28,12 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
             src="https://custom-icon-badges.demolab.com/github/followers/dimimartins?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://github.com/dimimartins?tab=repositories">
-        <img
-            alt="Total de projetos"
-            title="Total de repositórios públicos no GitHub"
-            src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdimimartins&query=%24.public_repos&label=Projetos&color=c76b00&style=for-the-badge&logo=github&logoColor=white"
-        />
+    <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
+      <img
+        alt="Total de repositórios públicos"
+        title="Total de repositórios públicos no GitHub"
+        src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdimiendrixmmiranda&query=%24.public_repos&label=Projetos&color=c76b00&style=for-the-badge&logo=github&logoColor=white"
+      />
     </a>
 </p>
 
