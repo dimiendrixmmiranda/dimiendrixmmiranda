@@ -87,7 +87,7 @@ Este GitHub reúne meus projetos, estudos e minha evolução na área de tecnolo
   <img src="./assets/badges/formations/instituicao-badge-alura.png" height="45" alt="Alura" title="Cursos de tecnologia - Alura" />
 </div>
 
-**Engenharia da Computação** — Universidade Pitágoras UNOPAR Anhanguera.
+#### **Engenharia da Computação** — Universidade Pitágoras UNOPAR Anhanguera.
 
 Estudos complementares em desenvolvimento web e programação por meio de cursos e projetos práticos.
 
