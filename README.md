@@ -11,8 +11,6 @@ Atualmente, trabalho como assistente administrativo no Posto de Saúde Central, 
 Este GitHub é um espaço para compartilhar meus estudos, projetos e minha evolução como profissional de tecnologia.
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=dimiendrixmmiranda&label=VISUALIZA%C3%87%C3%95ES%20DO%20PERFIL&color=0e75b6&style=for-the-badge" alt="Visualizações do perfil" />
-</p> <p>
   <a href="https://github.com/dimiendrixmmiranda?tab=repositories">
     <img src="https://img.shields.io/badge/⭐%20Estrelas-Ver%20meus%20reposit%C3%B3rios-2ea44f?style=for-the-badge" alt="Ver repositórios e estrelas" />
   </a>
