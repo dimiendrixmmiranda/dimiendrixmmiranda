@@ -95,8 +95,11 @@ Estudos complementares em desenvolvimento web e programação por meio de cursos
 
 # 🛠️ Main Projects
 
-**Loading...**
----
+<a href="https://github.com/SEU-USUARIO/observa-brasil">
+  <img src="./assets/badge-observa-brasil.png" width="200" height="60" alt="Observa Brasil">
+</a>
+
+------
 
 <p align="center">
   <i>Construindo projetos, aprendendo continuamente e evoluindo a cada linha de código. 🚀</i>
